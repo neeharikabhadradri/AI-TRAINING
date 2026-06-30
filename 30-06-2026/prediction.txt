@@ -1,0 +1,4 @@
+You won a free prize -> Spam (93%)
+Hello, how are you? -> Not Spam (87%)
+You won a free prize -> Spam (89%)
+Hello, how are you? -> Not Spam (88%)

@@ -1,0 +1,4 @@
+Spam
+Not Spam
+Spam
+Not Spam
